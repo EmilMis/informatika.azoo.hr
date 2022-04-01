@@ -10,5 +10,5 @@
 | `User.name`  |    `User.reg_date`  | `User.description` |
 
 <p>to get all info, use</p>
-`user.info()`
+<p>`user.info()`</p>
 have fun
