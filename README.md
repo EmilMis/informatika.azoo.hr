@@ -1,9 +1,9 @@
 # informatika.azoo.hr
-search all users \n
+<p>search all users</p>
 
-run dataload.py to load latest users, takes up to 20 minutes to load all of them \n
-`python3 dataload.py` \n
-every user has: \n
+<p>run dataload.py to load latest users, takes up to 20 minutes to load all of them</p>
+<p>`python3 dataload.py`</p>
+<p>every user has:</p>
 
 |     Name     |  Registration Date  |     Description    |
 |:------------:|:-------------------:|:------------------:|
