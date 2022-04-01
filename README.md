@@ -1,7 +1,7 @@
 # informatika.azoo.hr
-search all users\s\s
+search all users  
 
-run dataload.py to load latest users, it takes up to 20 minutes to load all of them\s\s
+run dataload.py to load latest users, it takes up to 20 minutes to load all of them  
 `python3 dataload.py`
 # every user has:
 
@@ -9,6 +9,6 @@ run dataload.py to load latest users, it takes up to 20 minutes to load all of t
 |:------------:|:-------------------:|:------------------:|
 | `User.name`  |    `User.reg_date`  | `User.description` |
 
-to get all info, use\s\s\s\s
+to get all info, use  
 `user.info()`
-have fun\s\s
+have fun  
