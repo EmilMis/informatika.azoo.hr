@@ -11,5 +11,4 @@
 
 <p>to get all info, use</p>
 `user.info()`
-
 have fun
