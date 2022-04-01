@@ -1,14 +1,14 @@
 # informatika.azoo.hr
-<p>search all users</p>
+search all users
 
-<p>run dataload.py to load latest users, it takes up to 20 minutes to load all of them</p>
+run dataload.py to load latest users, it takes up to 20 minutes to load all of them
 `python3 dataload.py`
-<p>every user has:</p>
+every user has:
 
 |     Name     |  Registration Date  |     Description    |
 |:------------:|:-------------------:|:------------------:|
 | `User.name`  |    `User.reg_date`  | `User.description` |
 
-<p>to get all info, use</p>
-<p>`user.info()`</p>
+to get all info, use
+`user.info()`
 have fun
